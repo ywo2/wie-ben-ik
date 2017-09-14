@@ -1,0 +1,23 @@
+body {
+    background-image: url("../images/website.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 1400px 700px;
+    background-attachment: fixed;
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	font-size: 150%;
+}
+
+img {
+	border-style: double;
+    border-width: 3px;
+    border-color: red;
+    position: relative;
+    left: 50px;
+}
+
+a {
+	position: relative;
+	bottom: 500px;
+}
